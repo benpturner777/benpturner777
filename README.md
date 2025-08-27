@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Ben 
+I'm a Python programmer exploring Data Science, NumPy, and machine learning.
 
-<!--
-**benpturner777/benpturner777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+EDIT THIS!!!
+## Projects
+- [NumPy Fundamentals Notebook](link-to-repo)
+- [Machine Learning Models](link-to-repo)
 
-Here are some ideas to get you started:
+## Contact
+- LinkedIn: [your-link]
+- Email: your.email@example.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
