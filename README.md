@@ -1,5 +1,5 @@
-# Hi, I'm Ben 
-I'm a mathematics student looking to apply my analytical ideas through python code. I have a focus on numpy, pandas and matplotlib libraries
+# Ben Turner 
+Welcome to my Github page! I'm a mathematics student looking to apply my analytical ideas through python code. Currently, the libraries I work with most include numpy, pandas and matplotlib.
 
 ## Projects
 - [NumPy Fundamentals Notebook](link-to-repo)
